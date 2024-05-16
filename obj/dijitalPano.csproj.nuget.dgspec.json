@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casper Nirvana\\Desktop\\gitt\\dijitalPano\\dijitalPano.csproj": {}
+    "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\dijitalPano.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casper Nirvana\\Desktop\\gitt\\dijitalPano\\dijitalPano.csproj": {
+    "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\dijitalPano.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casper Nirvana\\Desktop\\gitt\\dijitalPano\\dijitalPano.csproj",
+        "projectUniqueName": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\dijitalPano.csproj",
         "projectName": "dijitalPano",
-        "projectPath": "C:\\Users\\Casper Nirvana\\Desktop\\gitt\\dijitalPano\\dijitalPano.csproj",
+        "projectPath": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\dijitalPano.csproj",
         "packagesPath": "C:\\Users\\Casper Nirvana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casper Nirvana\\Desktop\\gitt\\dijitalPano\\obj\\",
+        "outputPath": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkcore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
