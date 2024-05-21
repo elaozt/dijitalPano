@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dijitalPano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6639090cbf1cf9445dc81b46652381e8adf6f322")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02987bd98f1791af13c7a44459f97078aa647b6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("dijitalPano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dijitalPano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
