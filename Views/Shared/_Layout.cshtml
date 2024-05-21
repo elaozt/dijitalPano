@@ -17,12 +17,15 @@
                     <div class="col-2">
                         <div>@await Html.PartialAsync("_NobetciOgretmen")</div>
                         <div>@await Html.PartialAsync("_NobetciOgrenci")</div>
-                        <div>@await Html.PartialAsync("_YemekListesi")</div>
+                       
                         
 
                     </div>
                     <div class="col-8">@RenderBody()</div>
                     <div class="col-2">Sağ taraf</div>
+                    <div> @await Html.PartialAsync("_HavaveSaat")</div>
+                     <div>@await Html.PartialAsync("_YemekListesi")</div>
+
                 </div>
                 
             </main>
