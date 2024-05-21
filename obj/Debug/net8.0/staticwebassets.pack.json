@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\wwwroot\\img\\logooo.png",
+      "PackagePath": "staticwebassets\\img\\logooo.png"
+    },
+    {
       "Id": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
