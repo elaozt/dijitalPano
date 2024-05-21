@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NgLwQtQorEYA3OOa9ZQ06F1nRUuVtoH+5MPg9/RH5wg=",
+  "Hash": "Ky0pUr3MDnkR59iGkPDna3ZF4zKGm/t9hCnuMAkj9LE=",
   "Source": "dijitalPano",
   "BasePath": "_content/dijitalPano",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\wwwroot\\img\\logooo.png",
+      "SourceId": "dijitalPano",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\wwwroot\\",
+      "BasePath": "_content/dijitalPano",
+      "RelativePath": "img/logooo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logooo.png"
     },
     {
       "Identity": "C:\\Users\\Casper Nirvana\\Desktop\\dijitalpano\\dijitalPano\\wwwroot\\js\\site.js",
