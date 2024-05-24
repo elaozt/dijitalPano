@@ -23,3 +23,17 @@ obj/Debug/net8.0/dijitalPano.AssemblyInfoInputs.cache
 obj/Debug/net8.0/dijitalPano.GeneratedMSBuildEditorConfig.editorconfig
 obj/Debug/net8.0/project.razor.vscode.bin
 obj/Debug/net8.0/project.razor.vscode.bin
+bin/Debug/net8.0/dijitalPano.dll
+bin/Debug/net8.0/dijitalPano.exe
+.gitignore
+bin/Debug/net8.0/dijitalPano.pdb
+.gitignore
+bin/Debug/net8.0/dijitalPano.staticwebassets.runtime.json
+.gitignore
+obj/dijitalPano.csproj.nuget.dgspec.json
+obj/dijitalPano.csproj.nuget.g.props
+obj/project.assets.json
+.gitignore
+obj/Debug/net8.0/dijitalPano.AssemblyInfo.cs
+obj/Debug/net8.0/dijitalPano.AssemblyInfoInputs.cache
+obj/Debug/net8.0/dijitalPano.assets.cache
